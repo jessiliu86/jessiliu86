@@ -13,7 +13,7 @@ I design workflows for AI agents and build interfaces that help people explore d
 
 **AI Learning Device Insights.** I built the React and TypeScript frontend for a collaborative study comparing device standards, brand claims, and consumer feedback. Seven interactive views let readers explore topics, compare stakeholder attention, and examine changes over time. My teammates collected the material and developed the analysis scripts.
 
-**AI-Assisted Transportation Analytics.** My fellowship explored how transportation teams could compare freight models and identify opportunities for further review.
+**[AI-Assisted Transportation Analytics](https://github.com/jessiliu86/ai-transportation-analytics-case-study).** My fellowship explored how transportation teams could compare freight models and identify opportunities for further review.
 
 ### Recognition & Media
 
