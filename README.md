@@ -19,7 +19,7 @@ I design workflows for AI agents and build interfaces that help people explore d
 
 - [EDF Climate Corps Fellowship Awards — 2026 Innovation Award](https://business.edf.org/climate-corps/fellows/climate-corps-fellowship-awards/)
 - [EDF project profile — Jessi Liu at Faurecia China](https://business.edf.org/climate-corps/projects/faurecia-jessi-liu-2026/)
-- [Climate Corps on LinkedIn — recent announcements](https://www.linkedin.com/in/climate-corps/recent-activity/all/)
+- [Climate Corps on LinkedIn — 2026 fellowship award announcement](https://www.linkedin.com/posts/climate-corps_we-are-proud-torecognize-our-2026-fellow-activity-7528120968158928896-5oTl)
 - [EDF Beijing Representative Office — fellowship feature on WeChat (Chinese)](https://mp.weixin.qq.com/s/T_GI8CtSBFI0YrN4ptl34Q)
 
 ### Connect With Me
